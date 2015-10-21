@@ -1,0 +1,12 @@
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
