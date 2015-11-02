@@ -4,7 +4,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "blog"
+      layout: "post"
   -
     scope:
       path: ""

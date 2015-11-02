@@ -1,1 +1,23 @@
- 
+
+header {
+  padding: 2em 0;
+  background-color: #f8f8f8;
+  
+  font-family: Georgia;
+}
+  header h1 a {
+    font-size: 300%;
+    font-weight: bold;
+    color: inherit;
+  }
+
+  header #logo {
+    height: 210px;
+  }
+
+.breadcrumb {
+  background: none;
+  border-radius: 0;
+  border-bottom: 1px solid #eee;
+  padding-left: 0;
+}
