@@ -24,7 +24,8 @@ desc: Elixir Meetups in Paris
   <p><a href="https://groups.google.com/forum/#!forum/elixir-lang-fr">Paris.ex Google Group</a></p>
   
   <p>Paris.ex IRC Channel: #elixir-lang-fr on Freenode</a></p>
-  
+
+  <p><a href="https://github.com/ElixirParis">Paris.ex on Github</a></p>
   
   <h2 class="page-header"><a href="/news">Latest news</a></h2>
 
