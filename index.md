@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Paris.ex - Elixir in Paris
-desc: Elixir Meetups in Paris
+title: Paris.ex - Elixir à Paris
+desc: Paris.ex - Groupe des utilisateurs francophone du langage Elixir 
 ---
 
 <div class="col-sm-5">
