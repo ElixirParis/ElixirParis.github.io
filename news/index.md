@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Paris.ex News - Elixir in Paris
-desc: News from Elixir Meetups in Paris
+title: Nouvelles de Paris.ex - Elixir à Paris
+desc: Nouvelles sur la rencontre Meetup Elixir à Paris
 ---
 
-<h1 class="page-header">Latest news</h1>
+<h1 class="page-header">Dernières Nouvelles</h1>
 
 <ul class="media-list">
   {% for post in site.posts %}

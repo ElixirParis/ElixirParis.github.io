@@ -6,28 +6,28 @@ desc: Elixir Meetups in Paris
 
 <div class="col-sm-5">
 
-  <h2 class="page-header">About us</h2>
+  <h2 class="page-header">Présentation</h2>
   
-  <p><b>Paris.ex</b> is the Parisian group for people interested in learning about the <a href="http://elixir-lang.org">Elixir Programming Language</a>. Elixir was written by José Valim, a well known and respected member of the Ruby community. And it may very well be "the next big thing".</p>
-  
-  <p>Elixir is a functional meta-programming aware language built on top of the Erlang VM. It is a dynamic language with flexible syntax with macros support that leverages Erlang's abilities to build concurrent, distributed, fault-tolerant applications with hot code upgrades. Elixir also provides first-class support for pattern matching, polymorphism via protocols (similar to Clojure's), aliases and associative data structures (usually known as dicts or hashes in other programming languages).</p>
-  
-  <p>Finally, Elixir and Erlang share the same bytecode and data types. This means you can invoke Erlang code from Elixir (and vice-versa) without any conversion or performance hit. This allows a developer to mix the expressiveness of Elixir with the robustness and performance of Erlang.</p>
+  <p><b>Paris.ex</b> est le groupe parisien de ceux qui s’intéressent au <a href="http://elixir-lang.org">langage de programmation Elixir</a>. Elixir a été écrit par José Valim, un membre bien connu et respecté de la communauté Ruby. Elixir pourrait très bien être le nouvell langage prisé dans la boîte à outils des développeurs.</p>
+
+  <p>Elixir est un langage fonctionnel construit au-dessus de la machine virtuelle Erlang, intégrant la meta-programmation au coeur de sa conception. C’est un langage dynamique à la syntaxe flexible, incluant des macros, qui exploitent les capacités d’Erlang pour construire des applications distribuées, tolérantes aux pannes, supportant les mises à jour de code à chaud. Elixir fournit également un support de premier plan pour le "pattern matching", le polymorphisme via des protocoles (similaire à Clojure), des aliases et des structures de données associatives (généralement connues sous le nom dicts ou hashes dans d'autres langages de programmation).</p>
+
+  <p>Enfin, Elixir et Erlang partagent les mêmes bytecode et les mêmes types de données. Cela signifie que vous pouvez appeler le code Erlang depuis Elixir (et vice-versa) sans aucune conversion ou baisse de performance. Cela permet à un développeur de mélanger l'expressivité d’Elixir avec la robustesse et les performances d’Erlang.</p>
 
 </div>
 <div class="col-sm-1"></div>
 <div class="col-sm-6">
-  <h2 class="page-header">Where to meet us?</h2>
+  <h2 class="page-header">Où nous rencontrer</h2>
   
-  <p><a href="http://www.meetup.com/fr/elixir/">Paris.ex Meetup Page</a></p>
+  <p><a href="http://www.meetup.com/fr/elixir/">Page Meetup de Paris.ex</a></p>
   
-  <p><a href="https://groups.google.com/forum/#!forum/elixir-lang-fr">Paris.ex Google Group</a></p>
+  <p><a href="https://groups.google.com/forum/#!forum/elixir-lang-fr">Liste de diffusion Paris.ex</a> (Google Groups)</p>
 
-  <p><a href="https://github.com/ElixirParis">Paris.ex on Github</a></p>
+  <p><a href="https://github.com/ElixirParis">Paris.ex sur Github</a></p>
 
-  <p>Paris.ex IRC Channel: #elixir-lang-fr on Freenode</a></p>
+  <p>Channel IRC Paris.ex IRC: #elixir-lang-fr sur Freenode</a></p>
 
-  <h2 class="page-header"><a href="/news">Latest news</a></h2>
+  <h2 class="page-header"><a href="/news">Dernières Nouvelles</a></h2>
 
   <ul class="media-list">
     {% for post in site.posts limit:1 %}
