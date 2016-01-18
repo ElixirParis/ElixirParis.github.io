@@ -21,19 +21,19 @@ href="http://riemann.io">Riemann</a>. Le projet FastTS s'inspire de
 Riemann et de Phoenix pour créer un outil de monitoring et un router
 de Time Series en Elixir.</p>
 
-<p>Le projet FastTS et la présentation ont démontré les concepts suivants:</p>
+<p>Le projet FastTS et la présentation ont démontré les concepts suivants&#8239;:</p>
 
 <ul>
 <li>Architecturer une application Elixir avec OTP;</li>
-<li>Transformer son fichier de configuration en un puissant langage de programmation, grâce aux macros Elixir (DSL: Domain Specific language);</li>
+<li>Transformer son fichier de configuration en un puissant langage de programmation, grâce aux macros Elixir (DSL&#8239;: Domain Specific language);</li>
 <li>Packager une application Elixir avec exrm et Docker (image minimaliste optimisée).</li>
 </ul>
 
-<p>Les slides de présentation en  PDF peuvent être téléchargés ici: <a
+<p>Les slides de présentation en  PDF peuvent être téléchargés ici&#8239;: <a
 href="https://blog.process-one.net/wp-content/uploads/2016/01/FastTS-Étude-dun-outil-de-monitoring-et-routeur-de-métriques-en-Elixir.pdf">FastTS:
 Étude d'un outil de monitoring et routeur de  métriques en Elixir</a>.</p>
 
-<p>Vous pouvez voir ici l’enregistrement vidéo de la présentation (en Français):</p>
+<p>Vous pouvez voir ici l’enregistrement vidéo de la présentation (en Français)&#8239;:</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p9-UedakllU" frameborder="0" allowfullscreen></iframe>
 
