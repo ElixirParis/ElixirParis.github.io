@@ -15,7 +15,7 @@ href="https://www.process-one.net">ProcessOne</a>) a présenté un
 nouveau projet servant d'illustration à différentes techniques de
 programmation en Elixir. Le projet <a
 href="https://github.com/processone/fast_ts">FastTS (Fast Time
-Series)</a> est issue d'ne présentation du Meetup Elixir #3, qui
+Series)</a> est issu d'une présentation du Meetup Elixir #3, qui
 démontrait incidemment l'usage du projet <a
 href="http://riemann.io">Riemann</a>. Le projet FastTS s'inspire de
 Riemann et de Phoenix pour créer un outil de monitoring et un router
