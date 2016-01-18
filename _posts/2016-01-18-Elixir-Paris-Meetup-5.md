@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Architecture OTP, Macros et Packaging Docker - Paris.ex #5
+title: Architecture OTP, Macros et Packaging Docker - Paris.ex &num;5
 type: news
 ---
 
