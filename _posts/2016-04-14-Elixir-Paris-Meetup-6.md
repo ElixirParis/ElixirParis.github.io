@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Présentations Paris.ex &num;6: Les macros, de Lisp à Elixir - Comment apprendre Elixir
+title: Présentations Paris.ex &num;6&#58; Les macros, de Lisp à Elixir - Comment apprendre Elixir
 type: news
 ---
 
