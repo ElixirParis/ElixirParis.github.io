@@ -27,7 +27,7 @@ href="http://slides.com/ronanh/learning-elixir-resources">Learning
 Elixir Resources</a>. La vidéo de sa présentation est également
 disponible:</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p9-UedakllU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u8XdE8B8Fh4" frameborder="0" allowfullscreen></iframe>
 
 <p>Le <a
 href="http://www.meetup.com/fr-FR/elixir/events/229456623/">prochain
