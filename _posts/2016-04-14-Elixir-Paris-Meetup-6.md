@@ -6,7 +6,7 @@ type: news
 
 <p>Le <a
 href="http://www.meetup.com/fr-FR/elixir/events/227031803/">meetup
-Paris.ex #5</a> a eu lieu le 8 mars. Le groupe de passionnés grandi à
+Paris.ex #6</a> a eu lieu le 8 mars. Le groupe de passionnés grandi à
 chaque Meetup et c'est un plaisir de se retrouver lors de ces
 événements.</p>
 
