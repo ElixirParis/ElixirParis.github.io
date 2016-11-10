@@ -40,7 +40,7 @@ bonnes étapes pour mettre à jour leur application Phoenix.<p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DHwD54fdHBM" frameborder="0" allowfullscreen></iframe>
 
-p>Les slides: <a
+<p>Les slides: <a
 href="http://www.slideshare.net/mremond/phoenix-presence-le-service-temps-rel-de-phoenix-parisex-8">Phoenix Presence: Le service temps réel de Phoenix</a></p>
 
 <p>N'hésitez pas à revoir les archives vidéos du meetup: <a
