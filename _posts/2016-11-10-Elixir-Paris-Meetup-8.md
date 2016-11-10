@@ -33,7 +33,7 @@ href="https://speakerdeck.com/thbar/de-rails-a-phoenix-retour-dexperience-sur-un
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jg3nB3pS5Ww" frameborder="0" allowfullscreen></iframe>
 
-<br/>
+<p/>
 
 <p><b>Phoenix Presence: Le service temps réel de Phoenix</b>: Mickaël Rémond
 nous a présenté l'implementation d'une application de chat simple sur le web à
