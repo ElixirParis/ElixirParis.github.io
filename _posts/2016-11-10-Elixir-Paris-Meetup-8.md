@@ -12,6 +12,8 @@ sont maintenant disponibles.</p>
 <p>Nous avons battu notre record d'affluence avec 53 participants
 enregistrés. Merci à tous d'être venu nombreux !</a>
 
+<br/>
+
 <p>Trois sujets ont été présentés lors de ce meetup:</p>
 
 <p><b>Rails vers Phoenix: Retour d'expérience sur une rewrite d'application SaaS</b>: Thibaut Barrère, développeur Rails indépendant et développeur du service SaaS <a href="https://www.wisecashhq.com/">WiseCash</a>, nous a présenté son impression lors du rewrite de son application Rails en Elixir et nous donne ses astuces pour rendre cette migration possible, de manière incrémentale.</p>
