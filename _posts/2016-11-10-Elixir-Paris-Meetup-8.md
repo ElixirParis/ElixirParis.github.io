@@ -23,11 +23,15 @@ enregistrés. Merci à tous d'être venu nombreux !</a>
 <p>Les slides: <a
 href="https://speakerdeck.com/thbar/de-rails-a-phoenix-retour-dexperience-sur-une-reecriture-dapplication-saas">De Rails à Phoenix - retour d'expérience sur une réécriture d'application SaaS</a></p>
 
+<br/>
+
 <p><b>Background Processing (Exq, Sidekiq)</b>: Bryan Frimin nous a décrit ce que font les bibliothèques et outils de background processing Exq et Sidekiq et nous explique pourquoi les utiliser avec le language Elixir.</p>
 
 <p>Voici la vidéo de la présentation de Bryan:</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jg3nB3pS5Ww" frameborder="0" allowfullscreen></iframe>
+
+<br/>
 
 <p><b>Phoenix Presence: Le service temps réel de Phoenix</b>: Mickaël Rémond
 nous a présenté l'implementation d'une application de chat simple sur le web à
@@ -42,6 +46,8 @@ bonnes étapes pour mettre à jour leur application Phoenix.<p>
 
 <p>Les slides: <a
 href="http://www.slideshare.net/mremond/phoenix-presence-le-service-temps-rel-de-phoenix-parisex-8">Phoenix Presence: Le service temps réel de Phoenix</a></p>
+
+<br/>
 
 <p>N'hésitez pas à revoir les archives vidéos du meetup: <a
 href="https://www.youtube.com/playlist?list=PLXeQZzENE-sJHr77-7Q5eHg_YoOj0LMiI">Paris.ex
