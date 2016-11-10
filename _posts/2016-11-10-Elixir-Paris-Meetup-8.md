@@ -12,7 +12,7 @@ sont maintenant disponibles.</p>
 <p>Nous avons battu notre record d'affluence avec 53 participants
 enregistrés. Merci à tous d'être venu nombreux !</a>
 
-<br/>
+<p/><br/>
 
 <p>Trois sujets ont été présentés lors de ce meetup:</p>
 
@@ -33,7 +33,7 @@ href="https://speakerdeck.com/thbar/de-rails-a-phoenix-retour-dexperience-sur-un
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jg3nB3pS5Ww" frameborder="0" allowfullscreen></iframe>
 
-<p/>
+<p/><br/>
 
 <p><b>Phoenix Presence: Le service temps réel de Phoenix</b>: Mickaël Rémond
 nous a présenté l'implementation d'une application de chat simple sur le web à
